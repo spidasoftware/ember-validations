@@ -1,4 +1,4 @@
-# Ember Validations #
+# Ember Validations # 
 
 [![Build Status](https://travis-ci.org/DockYard/ember-validations.svg?branch=master)](https://travis-ci.org/DockYard/ember-validations) [![CircleCI](https://circleci.com/gh/DockYard/ember-validations.svg?style=shield)](https://circleci.com/gh/DockYard/ember-validations) [![npm version](https://badge.fury.io/js/ember-validations.svg)](https://badge.fury.io/js/ember-validations) [![Ember Observer Score](http://emberobserver.com/badges/ember-validations.svg)](http://emberobserver.com/addons/ember-validations)
 
